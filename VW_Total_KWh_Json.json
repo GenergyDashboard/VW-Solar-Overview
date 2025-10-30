@@ -1,39 +1,39 @@
 {
-  "timestamp": "2025-10-30T16:23:08.622215",
-  "current_power_w": 800,
-  "current_power_kwh": 0.8,
-  "daily_total_kwh": 28296.8,
-  "monthly_total_kwh": 698305.08,
-  "lifetime_total_kwh": 20176148.9,
+  "timestamp": "2025-10-30T16:29:59.163581",
+  "current_power_w": 211354,
+  "current_power_kwh": 211.35,
+  "daily_total_kwh": 5355.99,
+  "monthly_total_kwh": 675364.28,
+  "lifetime_total_kwh": 20153208.09,
   "daily_environmental": {
-    "co2_avoided_kg": 28297,
-    "trees_planted_lower": 321555,
-    "trees_planted_upper": 1286218,
-    "households_powered": 7.98,
-    "km_driven_equivalent": 112721,
-    "km_flown_equivalent": 2304,
-    "coal_saved_kg": 14375,
-    "water_saved_litres": 39616
+    "co2_avoided_kg": 5356,
+    "trees_planted_lower": 60864,
+    "trees_planted_upper": 243454,
+    "households_powered": 1.51,
+    "km_driven_equivalent": 21336,
+    "km_flown_equivalent": 436,
+    "coal_saved_kg": 2721,
+    "water_saved_litres": 7498
   },
   "monthly_environmental": {
-    "co2_avoided_kg": 698305,
-    "trees_planted_lower": 7935285,
-    "trees_planted_upper": 31741140,
-    "households_powered": 196.89,
-    "km_driven_equivalent": 2781726,
-    "km_flown_equivalent": 56864,
-    "coal_saved_kg": 354755,
-    "water_saved_litres": 977627
+    "co2_avoided_kg": 675364,
+    "trees_planted_lower": 7674594,
+    "trees_planted_upper": 30698376,
+    "households_powered": 190.42,
+    "km_driven_equivalent": 2690341,
+    "km_flown_equivalent": 54996,
+    "coal_saved_kg": 343101,
+    "water_saved_litres": 945510
   },
   "lifetime_environmental": {
-    "co2_avoided_kg": 20176149,
-    "trees_planted_lower": 229274419,
-    "trees_planted_upper": 917097677,
-    "households_powered": 5688.82,
-    "km_driven_equivalent": 80372496,
-    "km_flown_equivalent": 1642977,
-    "coal_saved_kg": 10249948,
-    "water_saved_litres": 28246608
+    "co2_avoided_kg": 20153208,
+    "trees_planted_lower": 229013728,
+    "trees_planted_upper": 916054913,
+    "households_powered": 5682.35,
+    "km_driven_equivalent": 80281111,
+    "km_flown_equivalent": 1641109,
+    "coal_saved_kg": 10238294,
+    "water_saved_litres": 28214491
   },
   "past_7_days": [
     {
@@ -134,64 +134,64 @@
   },
   "cumulative_today": [
     {
-      "timestamp": "2025-10-30T18:25:00",
-      "time": "18:25",
-      "power_w": 74550,
-      "cumulative_kwh": 28286.37
+      "timestamp": "2025-10-30T14:00:00",
+      "time": "14:00",
+      "power_w": 602944,
+      "cumulative_kwh": 4539.25
     },
     {
-      "timestamp": "2025-10-30T18:30:00",
-      "time": "18:30",
-      "power_w": 55480,
-      "cumulative_kwh": 28291.0
+      "timestamp": "2025-10-30T14:15:00",
+      "time": "14:15",
+      "power_w": 559076,
+      "cumulative_kwh": 4679.01
     },
     {
-      "timestamp": "2025-10-30T18:35:00",
-      "time": "18:35",
-      "power_w": 34470,
-      "cumulative_kwh": 28293.87
+      "timestamp": "2025-10-30T14:30:00",
+      "time": "14:30",
+      "power_w": 521851,
+      "cumulative_kwh": 4809.48
     },
     {
-      "timestamp": "2025-10-30T18:40:00",
-      "time": "18:40",
-      "power_w": 19110,
-      "cumulative_kwh": 28295.46
+      "timestamp": "2025-10-30T14:45:00",
+      "time": "14:45",
+      "power_w": 450666,
+      "cumulative_kwh": 4922.14
     },
     {
-      "timestamp": "2025-10-30T18:45:00",
-      "time": "18:45",
-      "power_w": 9010,
-      "cumulative_kwh": 28296.21
+      "timestamp": "2025-10-30T15:00:00",
+      "time": "15:00",
+      "power_w": 397298,
+      "cumulative_kwh": 5021.47
     },
     {
-      "timestamp": "2025-10-30T18:50:00",
-      "time": "18:50",
-      "power_w": 3770,
-      "cumulative_kwh": 28296.53
+      "timestamp": "2025-10-30T15:15:00",
+      "time": "15:15",
+      "power_w": 359248,
+      "cumulative_kwh": 5111.28
     },
     {
-      "timestamp": "2025-10-30T18:55:00",
-      "time": "18:55",
-      "power_w": 860,
-      "cumulative_kwh": 28296.6
+      "timestamp": "2025-10-30T15:30:00",
+      "time": "15:30",
+      "power_w": 318418,
+      "cumulative_kwh": 5190.88
     },
     {
-      "timestamp": "2025-10-30T19:00:00",
-      "time": "19:00",
-      "power_w": 800,
-      "cumulative_kwh": 28296.66
+      "timestamp": "2025-10-30T15:45:00",
+      "time": "15:45",
+      "power_w": 275550,
+      "cumulative_kwh": 5259.77
     },
     {
-      "timestamp": "2025-10-30T19:05:00",
-      "time": "19:05",
-      "power_w": 800,
-      "cumulative_kwh": 28296.73
+      "timestamp": "2025-10-30T16:00:00",
+      "time": "16:00",
+      "power_w": 250015,
+      "cumulative_kwh": 5322.28
     },
     {
-      "timestamp": "2025-10-30T19:10:00",
-      "time": "19:10",
-      "power_w": 800,
-      "cumulative_kwh": 28296.8
+      "timestamp": "2025-10-30T16:15:00",
+      "time": "16:15",
+      "power_w": 211354,
+      "cumulative_kwh": 5355.99
     }
   ]
 }
